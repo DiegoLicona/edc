@@ -1,0 +1,2 @@
+Linux es el primer sistema operativo que crea sitemas o subsitemas vasados en linux de ahi se creo windows ,android etc. 
+Los sistemas operativos GNU/Linux son de tipo Unix y de código abierto, y están basados en el kernel de Linux, dentro de estos distribuciones estan ubuntu, debian ... etc
